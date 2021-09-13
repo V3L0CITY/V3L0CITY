@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working as game design intern at worklinkr. **Casual Games**
 
+- 📝 I regularly write articles on [https://medium.com/@rits.acb/hyper-casual-games-theory-beeedff4f195](https://medium.com/@rits.acb/hyper-casual-games-theory-beeedff4f195)
+
 - 📫 How to reach me **rits.acb@gmail.com**
 
 - ⚡ Fun fact **We all die.**
