@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working as game design intern at worklinkr. **Casual Games**
 
-- 👨‍💻 All of my projects are available at [https://play.google.com/store/apps/details?id=com.elevator.fall.rush,https://play.google.com/store/apps/details?id=com.saam.neighbor.secrets](https://play.google.com/store/apps/details?id=com.elevator.fall.rush,https://play.google.com/store/apps/details?id=com.saam.neighbor.secrets)
+- 👨‍💻 All of my projects are available at [https://play.google.com/store/apps/details?id=com.elevator.fall.rush](https://play.google.com/store/apps/details?id=com.elevator.fall.rush)
 
 - 📝 I regularly write articles on [https://medium.com/@rits.acb/hyper-casual-games-theory-beeedff4f195](https://medium.com/@rits.acb/hyper-casual-games-theory-beeedff4f195)
 
 - 📫 How to reach me **rits.acb@gmail.com**
 
-- ⚡ Fun fact **We all die.**
+- 📄 Know about my experiences [https://drive.google.com/file/d/1osIKKNO3yRrcYh9Kmim5U8etE84xeHh6/view?usp=sharing](https://drive.google.com/file/d/1osIKKNO3yRrcYh9Kmim5U8etE84xeHh6/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
